@@ -9,6 +9,7 @@ body {
 }
 
 .box-model {
+	box-sizing:border-box;
     width: 300px;
     background-color: lightblue;
     border: 15px solid blue;
